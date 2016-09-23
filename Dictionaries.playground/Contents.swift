@@ -17,6 +17,7 @@ if let definition = definition {
     print("'rigmarole' isn't a word!")
 }
 
+
 if let definition = nonexistentDefinition {
     print("The definition of 'strategery' is '\(definition)'")
 } else {
